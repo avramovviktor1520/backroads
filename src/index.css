@@ -457,10 +457,10 @@ Navbar
   left: 0;
   width: 100%;
   /* background: var(--clr-white); */
-  background: #ececec;
+  background: var(--clr-white);
   box-shadow: var(--dark-shadow);
   z-index: 2;
-  height: 5rem;
+  height: 4rem;
   display: flex;
   align-items: center;
 }
