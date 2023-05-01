@@ -456,10 +456,11 @@ Navbar
   top: 0;
   left: 0;
   width: 100%;
-  background: var(--clr-white);
+  /* background: var(--clr-white); */
+  background: #ececec;
   box-shadow: var(--dark-shadow);
   z-index: 2;
-  height: 4rem;
+  height: 5rem;
   display: flex;
   align-items: center;
 }
