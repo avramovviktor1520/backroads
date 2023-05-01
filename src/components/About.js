@@ -22,7 +22,8 @@ export default function About() {
             quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
             unde dolor?
           </p>
-          <a href="#" className="btn">
+
+          <a href="#0" className="btn">
             read more
           </a>
         </article>
